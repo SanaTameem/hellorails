@@ -22,7 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 
-I have done thid exercise following these steps :
+I have done this exercise following these steps :
 - Install rails :
 ```
 gem install rails
@@ -40,7 +40,7 @@ rails new hellorails --database=postgresql
 
 - Initialize your project with Git.
 ```
-git init (edited) 
+git init
 ```
 
 - Make sure that your project has Postgres database set up.
